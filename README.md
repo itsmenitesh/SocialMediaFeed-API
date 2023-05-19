@@ -211,7 +211,7 @@ The project consists of a straightforward web application created with Java and 
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page]("url").
+Contributions, issues and feature requests are welcome.
     
 ---
     
