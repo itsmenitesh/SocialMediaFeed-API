@@ -1,4 +1,4 @@
-# Instagram
+# SocialMediaFeed API
 
 <p align="center">
 <a href="Java url">
